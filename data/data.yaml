@@ -1,0 +1,12 @@
+names:
+- bicycle
+- bus
+- car
+- motorcycle
+- person
+- stop_sign
+- traffic_light
+- truck
+nc: 8
+train: /content/FINAL_DATASET/FINAL_DATASET/train/images
+val: /content/FINAL_DATASET/FINAL_DATASET/val/images
